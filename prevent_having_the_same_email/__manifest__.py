@@ -7,11 +7,7 @@
     "website": "https://github.com/aexitmcaf",
     "category": "Partner customization",
     "version": "16.0.1.0.0",
-
     "depends": ["base"],
-
-    "data": [
-        "views/res_partner.xml",
-    ],
+    'images': ['static/description/icon.png'],
     "installable": True,
 }
